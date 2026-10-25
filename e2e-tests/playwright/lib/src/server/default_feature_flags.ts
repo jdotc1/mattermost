@@ -39,6 +39,7 @@ export const defaultFeatureFlags: Record<string, string> = {
     PolicySimulation: 'true',
     PostAttributes: 'false',
     PostDeliveryTracking: 'false',
+    ProductRail: 'false',
     PropertyFieldGraph: 'true',
     PropertyFieldRank: 'true',
     RecurringScheduledPosts: 'false',
